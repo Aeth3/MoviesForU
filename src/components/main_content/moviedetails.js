@@ -6,7 +6,6 @@ export default function MovieDetails({
   selectedId,
   KEY,
   setDetailsError,
-  setSelectedId,
   watched,
   setWatched,
   handleCloseDetails,
